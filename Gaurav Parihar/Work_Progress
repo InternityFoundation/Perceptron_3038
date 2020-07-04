@@ -1,0 +1,2 @@
+The python file v2.py is detecting all the faces from the video and coverting into the pixels extracted with the help of harcasdade.
+Further the implementation will store all the pixel values to check with the values extracted from the other video.
