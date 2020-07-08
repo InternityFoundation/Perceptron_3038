@@ -1,6 +1,4 @@
-Deep-learning-with-opencv
-
-This repository consist of deep learning approach towards computer vision.
+#Deep-learning-with-opencv
 
 Steps:
 
