@@ -5,7 +5,7 @@ Steps:
 2)Extracting these frames to training folder.  
 3)Training VGG16 model on this extracted dataset.  
 4)Capturing faces from other videos and analyse them using our trained model.  
-<img src ="flowchart.JPG">
+<img src ="Block_Diagram.png">
 
 
 <h1># Create-a-thon 2020 Final Project : Team : Perceptron_3038</h1>
