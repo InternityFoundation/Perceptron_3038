@@ -1,7 +1,7 @@
 # Perceptron_3038
 Create-A-Thon 2020 Project Repository<hr>
 Workflow Pipeline : 
-<img src ="Block_Diagram.png">
+<img src ="Perceptron_3038_Block_Diagram.png">
 
 
 <h1># Create-a-thon 2020 Final Project : Team : Perceptron_3038</h1>
