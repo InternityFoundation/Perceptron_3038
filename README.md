@@ -75,4 +75,7 @@ Accessibility <br>
 User friendly <br>
 Accuracy <br>
 
+## Demo Snapshots
+![demo](demo_snapshot.jpg)
+
 
