@@ -1,7 +1,7 @@
 import cv2
 
 def generate_dataset(img, id, img_id):
-    cv2.imwrite("data/user."+str(id)+"."+str(img_id)+".jpg", img)
+    cv2.imwrite("signs/user."+str(id)+"."+str(img_id)+".jpg", img)
     
 
 
@@ -31,7 +31,7 @@ def detect(img, faceCascade, img_id):
     return img
 #Cascade Classifier
 faceCascade=cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
-cap = cv2.VideoCapture('test1.mp4')
+cap = cv2.VideoCapture(0)
 
 img_id=0
 while True:
